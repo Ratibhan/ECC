@@ -1,7 +1,7 @@
 from tinyec.ec import SubGroup, Curve
 
 # Domain parameters for the `secp256k1` curve
-# (as defined in http://www.secg.org/sec2-v2.pdf)
+
 name = 'secp256k1'
 p = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f
 n = 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141
